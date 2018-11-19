@@ -1,25 +1,20 @@
-## Welcome to GitHub Pages
+## Selamat Datang Di Halaman GitHub Saya
 
-You can use the [editor on GitHub](https://github.com/asridiana18/gis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SELAMAT DATANG!!!!
+Terima Kasih Telah Berkunjung:)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Profil Saya
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Nama        : Asri Diana
+NIM         : 11653200152
+Jurusan     : Sistem Informasi
+Fakultas    : Sains dan Teknologi
+Universitas : Universitas Islam Negeri Sultan Syarif Kasim Riau
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
