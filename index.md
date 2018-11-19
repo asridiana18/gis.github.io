@@ -1,7 +1,7 @@
 **Selamat Datang Di Halaman GitHub Saya**
 
 SELAMAT DATANG!!!!
-Terima Kasih Telah Berkunjung:)
+Terima Kasih Telah Berkunjung😊😊😉
 
 Profil Saya
 
@@ -16,9 +16,3 @@ http://sif.uin-suska.ac.id/
 http://uin-suska.ac.id/
 
 Foto Universitas Islam Negeri Sultan Syarif Kasim Riau
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![](src)
-```
